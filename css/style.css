@@ -46,3 +46,14 @@ footer{
         color: #c7c7c7;
         margin-top: 20px;
     }
+
+.Column2{
+    max-width: 400px;
+
+}
+
+    .Column2 h1{
+        font-size: 22px;
+    }
+
+  
