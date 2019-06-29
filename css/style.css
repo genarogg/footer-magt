@@ -20,3 +20,11 @@ footer{
     
 }
 
+.ContainerFooterAll{
+    
+    margin: auto;
+    max-width: 2000px;
+    width: 100%;
+    padding: 40px;
+}
+
