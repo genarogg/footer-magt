@@ -37,4 +37,12 @@ footer{
     max-width: 400px;
 }
 
-    
+    .Column1 .h1{
+        font-size: 22px;
+    }
+
+    .Column1 p {
+        font-size: 14px;
+        color: #c7c7c7;
+        margin-top: 20px;
+    }
