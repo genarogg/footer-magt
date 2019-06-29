@@ -28,3 +28,13 @@ footer{
     padding: 40px;
 }
 
+.ContainerFooterUp{
+    display: flex;
+    justify-content: space-between;
+}
+
+.Column1{
+    max-width: 400px;
+}
+
+    
