@@ -11,3 +11,12 @@ body{
     background: #f0f0f0;
 }
 
+footer{
+    align-self: flex-end;
+    
+    background: #202020;
+    color: white;
+    width: 100%;
+    
+}
+
