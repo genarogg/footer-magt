@@ -90,4 +90,9 @@ footer{
         font-size: 26px;
         width: 36px;
         height: 36px;
-  
+    }
+    .Column3 .row2 label{
+        margin-top: 10px;
+        margin-left: 20px;
+        max-width: 140px;
+    }
