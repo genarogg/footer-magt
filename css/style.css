@@ -96,3 +96,10 @@ footer{
         margin-left: 20px;
         max-width: 140px;
     }
+
+.ContainerFooterDown{
+    width: 100%;
+    background: #101010;
+    
+}
+
