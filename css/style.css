@@ -115,3 +115,14 @@ footer{
     color: #c7c7c7;
 }
 
+.Copyright a{
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+}
+
+.information a{
+    text-decoration: none;
+    color: #c7c7c7;
+}
+
