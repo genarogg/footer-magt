@@ -103,3 +103,15 @@ footer{
     
 }
 
+.footerDown{
+    max-width: 2000px
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+}
+
+.Copyright{
+    color: #c7c7c7;
+}
+
