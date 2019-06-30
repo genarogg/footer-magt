@@ -56,4 +56,16 @@ footer{
         font-size: 22px;
     }
 
-  
+    .Column2 .row{
+        margin-top: 20px;
+        display: flex;
+    }
+
+    .Column2 .row span{
+        font-size: 26px;
+        width: 36px;
+        height: 36px;
+    }
+
+ 
+    
